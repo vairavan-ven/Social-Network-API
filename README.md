@@ -28,6 +28,10 @@ Anyone is free to contribute
 ## Tests
 Install insomnia and test the routes
 
+## Walkthrough video 
+https://drive.google.com/file/d/1MAUfiepvuuRCjBgvqyjrVQb7p7gU7a9H/view
+There are still some issues with testing routes, future development will be focused on further debugging to get routes working
+
 ## Questions
 If you have any questions, you can reach out to me via GitHub or email:
 - GitHub: [vairavan-ven](https://github.com/vairavan-ven)
