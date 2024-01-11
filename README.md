@@ -26,7 +26,7 @@ This project is licensed under the [MIT](https://opensource.org/licenses/MIT) li
 Anyone is free to contribute
 
 ## Tests
-Install insomni and test the routes
+Install insomnia and test the routes
 
 ## Questions
 If you have any questions, you can reach out to me via GitHub or email:
