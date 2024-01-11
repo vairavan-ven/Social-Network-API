@@ -8,17 +8,15 @@ module.exports = {
     try {
       const users = await User.find();
 
-      const userObj = {
-        users,
-        userCount: await headCount(),
-      };
+// We removed the object logic and return the array of users in our res(response)
 
-      res.json(userObj);
+      res.json(users);
     } catch (err) {
       console.error(err);
       return res.status(500).json({ error: 'Internal Server Error' });
     }
   },
+
 
   async getSingleUser(req, res) {
     try {

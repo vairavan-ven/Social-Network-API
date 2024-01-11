@@ -27,7 +27,7 @@ connection.once('open', async () => {
          'I am hungry'
         ]
       },
-      // Add more users with predefined details here
+      
     ];
 
     await User.collection.insertMany(users);
